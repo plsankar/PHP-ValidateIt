@@ -1,6 +1,6 @@
 <?php
 
-namespace plsankar1996\ValidateIt;
+namespace plsankar\ValidateIt;
 
 class ValidateIt
 {

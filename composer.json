@@ -1,15 +1,15 @@
 {
-    "name": "plsankar1996/validateit",
+    "name": "plsankar/validateit",
     "description": "A Simple Validation Class for PHP",
     "type": "library",
     "license": "MIT",
     "authors": [{
-        "name": "plsankar1996",
-        "homepage": "https://github.com/plsankar1996"
+        "name": "plsankar",
+        "homepage": "https://github.com/plsankar"
     }],
     "autoload": {
         "psr-4": {
-            "plsankar1996\\ValidateIt\\": "src/"
+            "plsankar\\ValidateIt\\": "src/"
         }
     }
 }
